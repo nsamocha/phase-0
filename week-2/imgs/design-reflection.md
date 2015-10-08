@@ -1,4 +1,4 @@
-![](/Nimi/AllMyfiles/Desktop/site-map)
+![site-map](/Nimi/AllMyfiles/Desktop/site-map)
 What are the 6 Phases of Web Design?
 Information Gathering, planning, design, development, testing and delivery and, maintenance.
 
