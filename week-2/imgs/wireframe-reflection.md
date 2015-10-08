@@ -1,4 +1,4 @@
-![Nimi](Desktop/wireframe.jpeg.pages)
+![jpeg.pages](Desktop/wireframe.jpeg.pages)
 What is a wireframe?
 A wireframe is basiclly how your website looks like, and how the user will interact with that website.
 
