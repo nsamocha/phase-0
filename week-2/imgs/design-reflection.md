@@ -1,5 +1,4 @@
-![site-maps](/Nimi/AllMyfiles/Desktop/site-map)
-Change?
+![Alt text](/path/to/site-map.pages "My site-map")
 What are the 6 Phases of Web Design?
 Information Gathering, planning, design, development, testing and delivery and, maintenance.
 
