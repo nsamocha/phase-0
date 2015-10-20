@@ -45,3 +45,10 @@ What are local variables? Why and when would you use them?
 How was this challenge? Did you get a good review of some of the basics?
 
 A local variable is a variable that has a lowercase letter to start it, and they don't have nil at the end of it. I definitly got a good review for some of the basics of ruby. It's been a long time since I've used, since I finished up my private studying before devbootcamp on javascript. Although they are not that different it was good to get a refresher on the syntax.
+
+https://github.com/nsamocha/phase-0/blob/master/week-4/basic-math.rb
+
+https://github.com/nsamocha/phase-0/blob/master/week-4/defining-variables.rb
+
+https://github.com/nsamocha/phase-0/blob/master/week-4/simple-string.rb
+
