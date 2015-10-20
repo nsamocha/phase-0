@@ -22,3 +22,26 @@ hoursInYear = 8760
 minutesInDecade = hoursInYear * hour * decade
 ```
 
+
+
+Release 7
+How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+
+Everything but division is very straight forward. Except in division where if you want an exact number you need to use a float number for one of the numbers in the problem.
+
+What is the difference between integers and floats?
+
+An integer is a real number, a float is an object that represents an inexact real number.
+
+What is the difference between integer and float division?
+
+Integer will give you an whole number, while float will give you an exact number.
+
+What are strings? Why and when would you use them?
+
+Strings are messages that are printed out on the console. You can save them to a variable or print them directly.
+
+What are local variables? Why and when would you use them?
+How was this challenge? Did you get a good review of some of the basics?
+
+A local variable is a variable that has a lowercase letter to start it, and they don't have nil at the end of it. I definitly got a good review for some of the basics of ruby. It's been a long time since I've used, since I finished up my private studying before devbootcamp on javascript. Although they are not that different it was good to get a refresher on the syntax.
